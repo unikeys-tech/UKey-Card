@@ -22,5 +22,3 @@ https://www.unikeys.io/
 ### White Paper
 https://www.unikeys.io/wp-content/uploads/White-Paper-V1.4.pdf
 
-### Video
-https://www.youtube.com/watch?v=3Nd_F-nIAUo
