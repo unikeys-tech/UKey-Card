@@ -1,0 +1,25 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+        <div class="col-md-12">
+            <h3>Demo Merchant</h3>
+        </div>
+      <div class="row product-row">
+        <div class="col-md-4" *ngFor="let product of products">
+            <product-item  [product]="product"></product-item>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <merchant-dashboard></merchant-dashboard>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <cart></cart>
+    </div>
+
+  </div>
+
+</div>

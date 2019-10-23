@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://unpkg.com/bootstrap@3.3.7/dist/css/bootstrap.min.css');
+
+body {
+    background-color: rgb(182, 219, 224);
+}
+
+.cart-item-text {
+    font-size: 1.3em;
+    width: 100%;
+    padding: 2px 0px;
+    font-weight: 500;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: 'Roboto', sans-serif; }
