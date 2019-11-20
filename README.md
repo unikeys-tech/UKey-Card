@@ -20,5 +20,5 @@ Communication with the UKey Card happens through an APDU interface. It supports 
 https://www.unikeys.io/
 
 ### White Paper
-https://www.unikeys.io/wp-content/uploads/White-Paper-V1.4.pdf
+https://www.unikeys.io/wp-content/uploads/White-Paper-IDEMIA-1.6-ENG.pdf
 
